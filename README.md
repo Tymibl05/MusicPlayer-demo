@@ -20,11 +20,11 @@ Current song in Library Menu is highlighted and songs that are hovered on will a
 
 This app was created using:
 
-## `HTML , CSS, JS`
+### `HTML , CSS, JS`
 
-## `SCSS`
+### `SCSS`
 
-## `React.JS`
+### `React.JS`
 
 ## More About Me
 
