@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Tymibl05/MusicPlayer-demo.git/static/css/main.f7866e75.css",
-    "main.js": "/Tymibl05/MusicPlayer-demo.git/static/js/main.4c92202d.js",
-    "index.html": "/Tymibl05/MusicPlayer-demo.git/index.html",
-    "main.f7866e75.css.map": "/Tymibl05/MusicPlayer-demo.git/static/css/main.f7866e75.css.map",
-    "main.4c92202d.js.map": "/Tymibl05/MusicPlayer-demo.git/static/js/main.4c92202d.js.map"
+    "main.css": "/MusicPlayer-demo/static/css/main.f7866e75.css",
+    "main.js": "/MusicPlayer-demo/static/js/main.4c92202d.js",
+    "index.html": "/MusicPlayer-demo/index.html",
+    "main.f7866e75.css.map": "/MusicPlayer-demo/static/css/main.f7866e75.css.map",
+    "main.4c92202d.js.map": "/MusicPlayer-demo/static/js/main.4c92202d.js.map"
   },
   "entrypoints": [
     "static/css/main.f7866e75.css",
